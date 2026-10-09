@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-MIDlet-Name: hello-midlet
+MIDlet-Name: Bouncy Raccoon
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: ROllerozxa
-MIDlet-1: HelloMIDlet,/icon.png,HelloMIDlet
+MIDlet-1: Bouncy Raccoon,/icon.png,Startup
 MicroEdition-Configuration: CLDC-1.1
 MicroEdition-Profile: MIDP-2.0
